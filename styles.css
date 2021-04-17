@@ -143,9 +143,16 @@ h1{
 p s h2 div{
     font-style:inherit;
 }
-.link-primary{
+.link-primary {
     margin:auto;
-    text-align: centers;
+    text-align: center;
+    
+}
+.blog{
+    padding: 2px;
+    text-align: center;
+    margin:auto;
+    color:#687288
 }
 
 
